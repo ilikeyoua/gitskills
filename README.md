@@ -1,1 +1,1 @@
-# gitskillscreating a new breanch is quick & dimple
+gitskillscreating a new breanch is quick and simple
